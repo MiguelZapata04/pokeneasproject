@@ -1,0 +1,22 @@
+{
+  "name": "pokeneasproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelZapata04/pokeneasproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelZapata04/pokeneasproject/issues"
+  },
+  "homepage": "https://github.com/MiguelZapata04/pokeneasproject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
